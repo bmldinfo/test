@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Samuel Wehrli",
+    "street": "Brunnenhofstrasse 8",
+    "city": "Au ZH",
+    "latitude": 47.2457299,
+    "longitude": 8.64421793790141
+  },
+  {
+    "name": "Ein Beispiel",
+    "street": "Brunnenstrasse 9",
+    "city": "Uster",
+    "latitude": 47.350967,
+    "longitude": 8.7206281
+  }
+]
